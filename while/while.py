@@ -5,3 +5,5 @@ num = 0
 while num < 10:
     print(num)
     num += 1    # Adicionando um numero cada vez que o programa passar por aqui
+
+# num += 1      ==      num = num + 1
