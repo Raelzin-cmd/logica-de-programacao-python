@@ -1,10 +1,3 @@
-'''
-lista = [12, 54, 87, 98, 100]
-
-for indice in range(len(lista)):
-    print(f'indice: {indice}; posição: {indice + 1}; valor: {lista[indice]}')
-'''
-
 user = {'name': 'Israel', 'idade': 26, 'email': 'rael@email.com'}
 
 # O método items() retorna uma lista de tuplas contendo elementos do dicionário.
