@@ -35,5 +35,5 @@ SEMPRE ative o ambiente virtual no projeto para que nada seja instalado de forma
 Instale o pacote arrow:
 
 ```bash
-python -m pip install arrow
+pip install arrow
 ```
