@@ -31,3 +31,9 @@ deactivate
 ```
 
 SEMPRE ative o ambiente virtual no projeto para que nada seja instalado de forma global, e ao terminar o projeto, desative o ambiente virtual.
+
+Instale o pacote arrow:
+
+```bash
+python -m pip install arrow
+```
